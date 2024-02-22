@@ -1,5 +1,5 @@
 from run import app
-from flask import request, json, render_template
+from flask import request, json
 import cryptocode
 
 
